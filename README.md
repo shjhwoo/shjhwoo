@@ -1,4 +1,6 @@
-### Hi there 👋
+### 클린코드와 좋은 아키텍처, 테스트 코드에 관심이 많은 백엔드 개발자 김수현입니다. 반갑습니다.
+
+
 
 <!--
 **shjhwoo/shjhwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
