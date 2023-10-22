@@ -1,8 +1,8 @@
 ### 클린코드와 좋은 아키텍처, 테스트 코드에 관심이 많은 백엔드 개발자 김수현입니다. 반갑습니다.
 
 <div><h1>✍️ LANGUAGES</h1></div>
+<li>**GO**</li>
 <li>Javascript</li>
-<li>GO</li>
 
 <div><h1>📚 STACKS</h1></div>
 
